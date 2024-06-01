@@ -1,5 +1,7 @@
-python312.zip
+.\python312.zip
+.\DLLs
+.\lib
 .
-
+.\site-packages
 # Uncomment to run site.main() automatically
-#import site
+import site
